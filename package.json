@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "twilio-cli": "^3.2.0"
+  }
+}
